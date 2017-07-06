@@ -31,6 +31,12 @@ if hash xterm 2>/dev/null; then
         sudo apt-get install figlet -y
 fi
 
+if hash psmisc 2>/dev/null; then
+	printf "psmisc:         checked\n"
+	else
+	sudo apt-get install psmisc -y
+fi
+
 #directory related mods
 rm -f -r /opt/noob
 mkdir /opt/noob
