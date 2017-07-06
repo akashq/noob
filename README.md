@@ -1,11 +1,13 @@
 # noob
-install:
+BY using VPN noob will provide you systemwide anonymization
 
-sudo git clone https://github.com/akashq/noob.git
-sudo chmod +x setup.sh
-sudo ./setup.sh
+## INSTALL
 
-usgae:
+- sudo git clone https://github.com/akashq/noob.git
+- sudo chmod +x setup.sh
+- sudo ./setup.sh
+
+## USAGE
 
 ┌─[root@wtf]─[~]
 └──╼ $noob
@@ -34,3 +36,7 @@ Usage:
 	-i Check your ip and location
 	
 
+###### NOTE
+All the vpn i used here is from http://www.vpngate.net/en/
+
+This script comes with no guarantee for anonymity use it at your own risk
