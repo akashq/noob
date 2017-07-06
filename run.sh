@@ -170,7 +170,7 @@ case "$1" in
    *)
    banner
 echo -e "
-vTans (v 3.0)
+noob (v 3.0)
 author: mr. ey3
 
 Usage:
