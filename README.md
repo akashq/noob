@@ -19,7 +19,7 @@ BY using VPN noob will provide you systemwide anonymization
 	-s Check the status of n00b
 	-i Check your ip and location
 	
-## EXPEXTATION
+## EXPECTATION
 
 - tor support
 - tor+vpn
