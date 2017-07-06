@@ -19,6 +19,13 @@ BY using VPN noob will provide you systemwide anonymization
 	-s Check the status of n00b
 	-i Check your ip and location
 	
+## EXPEXTATION
+
+- tor support
+- tor+vpn
+- vpn+tor
+
+
 
 ###### NOTE
 All the vpn i used here is from http://www.vpngate.net/en/
