@@ -2,7 +2,7 @@
 
 
 function banner {
-	printf "running vTans installer"
+	printf "running n00b installer"
 	printf "Author: mr. ey3\n"
 	printf "love from ULTIMATE HACKERS\n"
 	printf "version 3.0(beta)\n\n"
@@ -16,19 +16,19 @@ sudo apt-get update
 if hash openvpn 2>/dev/null; then
         printf "openvpn:        checked\n"
         else
-        sudo apt-get install openvpn
+        sudo apt-get install openvpn -y
 fi
 
 if hash figlet 2>/dev/null; then
         printf "figlet:         checked\n"
         else
-        sudo apt-get install figlet
+        sudo apt-get install figlet -y
 fi
 
 if hash xterm 2>/dev/null; then
         printf "xterm:          checked\n"
         else
-        sudo apt-get install figlet
+        sudo apt-get install figlet -y
 fi
 
 #directory related mods
