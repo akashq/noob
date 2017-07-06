@@ -1,4 +1,4 @@
-# noob
+# noob anonymizer
 BY using VPN noob will provide you systemwide anonymization
 
 ## INSTALL
@@ -9,23 +9,6 @@ BY using VPN noob will provide you systemwide anonymization
 
 ## USAGE
 
-┌─[root@wtf]─[~]
-└──╼ $noob
-        ___   ___  _     
- _ __  / _ \ / _ \| |__  
-| '_ \| | | | | | | '_ \ 
-| | | | |_| | |_| | |_) |
-|_| |_|\___/ \___/|_.__/ 
-                         
-Author: mr. ey3
-love from ULTIMATE HACKERS
-version 3.0(beta)
-
-
-vTans (v 3.0)
-author: mr. ey3
-
-Usage:
 ┌──[root@wtf]─[/home]
 └──╼ $ noob {-a|-d|-c|-s|-i}
 
