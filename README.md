@@ -10,6 +10,7 @@ BY using VPN noob will provide you systemwide anonymization
 ## USAGE
 
 ┌──[root@wtf]─[/home]
+
 └──╼ $ noob {-a|-d|-c|-s|-i}
 
 	-a Activate the script	
