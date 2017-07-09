@@ -23,7 +23,6 @@ BY using VPN noob will provide you systemwide anonymization
 
 - tor support
 - tor+vpn
-- vpn+tor
 
 
 
