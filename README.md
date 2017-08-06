@@ -1,5 +1,7 @@
 # noob anonymizer
-BY using VPN noob will provide you systemwide anonymization
+BY using VPN noob will provide you systemwide anonymization(basic)
+If you want to choose the servers manually check this out: https://github.com/akashq/gateway
+
 
 ## INSTALL
 
@@ -15,10 +17,16 @@ BY using VPN noob will provide you systemwide anonymization
 
 	-a Activate the script	
 	-d Deactivate the script
-	-c Change your IP by restarting the script
+	-c Change to another location
 	-s Check the status of n00b
 	-i Check your ip and location
 	
+## FEATURES
+
+- Connect to a VPN server from different country(random)
+- Change location(random)
+- Check ip
+
 ## EXPECTATION
 
 - tor support
@@ -26,7 +34,7 @@ BY using VPN noob will provide you systemwide anonymization
 
 
 
-###### NOTE
+##### NOTE
 All the vpn i used here is from http://www.vpngate.net/en/
 
 This script comes with no guarantee for anonymity use it at your own risk
