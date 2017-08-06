@@ -177,9 +177,9 @@ Usage:
 ┌──[root@shad0w]─[$PWD]
 └──╼ \$ noob {-a|-d|-c|-s|-i}
 
-	-a Activate the script	
-	-d Deactivate the script
-	-c Change your IP by restarting the script
+	-a Activate the n00b	
+	-d Deactivate the n00b
+	-c Change to another location
 	-s Check the status of n00b
 	-i Check your ip and location
 	
