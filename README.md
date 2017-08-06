@@ -16,8 +16,8 @@ If you want to choose the servers manually check this out: https://github.com/ak
 
 └──╼ $ noob {-a|-d|-c|-s|-i}
 
-	-a Activate the script	
-	-d Deactivate the script
+	-a Activate the n00b	
+	-d Deactivate the n00b
 	-c Change to another location
 	-s Check the status of n00b
 	-i Check your ip and location
