@@ -31,7 +31,6 @@ If you want to choose the servers manually check this out: https://github.com/ak
 ## EXPECTATION
 
 - tor support
-- tor+vpn
 
 
 
